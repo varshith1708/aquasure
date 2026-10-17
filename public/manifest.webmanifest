@@ -1,0 +1,17 @@
+{
+  "name": "AquaSure Clean Water & Sanitation",
+  "short_name": "AquaSure",
+  "description": "Clean water monitoring, safe source finder, and sanitation guide (UN SDG 6)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A4D8C",
+  "theme_color": "#0A4D8C",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
